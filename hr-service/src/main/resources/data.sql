@@ -1,0 +1,18 @@
+INSERT INTO PUBLIC.EMPLOYEES_INFO(ID, FIRSTNAME, LASTNAME, BIRTHDATE, EXPERIENCE, PROFESSION, GENDER, STATE) VALUES
+(1, 'Steven', 'King', DATE '1980-07-22', 1, 15, 1, 0),
+(2, 'Neena', 'Sciarra', DATE '1970-08-11', 5, 25, 1, 0),
+(3, 'Lex-5', 'Urman', DATE '1986-12-04', 8, 10, 1, 0),
+(4, 'Ismael-0', 'Greenberg', DATE '1985-06-12', 12, 10, 1, 3),
+(5, 'Luis-5', 'Autp', DATE '1988-09-12', 6, 14, 1, 0),
+(6, 'Bruce-b', 'Yellow', DATE '1990-10-19', 1, 11, 1, 0),
+(7, 'Shadow-e', 'Manuel', DATE '1995-11-17', 8, 1, 1, 0),
+(8, 'Valli-e', 'Raphaely', DATE '1980-01-22', 13, 11, 1, 3),
+(9, 'Shelli-3', 'Khoo', DATE '1970-01-02', 13, 9, 1, 3),
+(10, 'Sigal-c', 'Vollman', DATE '1990-04-06', 2, 10, 7, 1),
+(11, 'Alexander-a', 'Voman', DATE '1992-06-09', 5, 3, 1, 1),
+(12, 'Matthew-5', 'Tobias', DATE '1991-06-17', 5, 8, 1, 1),
+(13, 'Ismael-4', 'Colmenares', DATE '1993-08-14', 2, 8, 1, 1),
+(14, 'Shanta-d', 'Colmenares', DATE '1995-01-16', 1, 7, 1, 1),
+(15, 'Payam-a', 'Baida', DATE '2001-07-23', 5, 2, 1, 3),
+(16, 'John-8', 'Kaufling', DATE '2002-05-13', 3, 3, 1, 3),
+(17, 'Diana-6', 'Weiss', DATE '2003-04-01', 8, 5, 1, 3);
